@@ -2,7 +2,7 @@
 
 📚 [Paper](https://arxiv.org/abs/2607.27372) | 🌐 [Website](https://explorative-modeling.github.io/) | 📝 [Blog](https://alexiglad.github.io/blog/2026/explorative_modeling/) | 🚀 [Getting Started with XMs](#getting-started-with-xms) | 🧾 [Bibtex](#citation)
 
-<img src="assets/banner_xm.png" alt="Explorative Modeling" width="100%" />
+![Explorative Modeling](assets/banner_xm.png)
 
 We introduce **Explorative Modeling**, a new paradigm for generative modeling that acts as a **third pretraining axis** when added to existing generative models, and also enables **end-to-end** generation. Explorative Models (XMs) work by exploring K candidate matches between what the model generates and the data at each training step, and training on the best one.
 

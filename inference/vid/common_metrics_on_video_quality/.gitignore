@@ -1,0 +1,5 @@
+__pycache__
+# large pretrained i3d model weights (~49MB each) - download on first use
+*.pt
+# tensorflow i3d model (unused, ~50MB)
+fvd/tensorflow/i3d-kinetics-tensorflow1-400-v1/
